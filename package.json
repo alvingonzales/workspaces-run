@@ -48,7 +48,7 @@
     "physical-cpu-count": "^2.0.0",
     "redent": "^3.0.0",
     "semver": "^7.1.1",
-    "signal-exit": "^3.0.2",
+    "signal-exit": "^4.1.0",
     "task-graph-runner": "^1.0.3",
     "trim-newlines": "^3.0.0",
     "wrapline": "^2.0.1"
