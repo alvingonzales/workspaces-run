@@ -44,7 +44,7 @@
     "get-workspaces": "^0.5.2",
     "meow": "^6.0.0",
     "micromatch": "^4.0.2",
-    "p-limit": "^2.2.1",
+    "p-limit": "^6.2.0",
     "physical-cpu-count": "^2.0.0",
     "redent": "^4.0.0",
     "semver": "^7.1.1",
