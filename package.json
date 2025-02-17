@@ -37,7 +37,7 @@
     "prepublishOnly": "npm run -s build"
   },
   "dependencies": {
-    "aggregate-error": "^3.0.1",
+    "aggregate-error": "^5.0.0",
     "chalk": "^3.0.0",
     "chunkd": "^2.0.1",
     "cross-spawn": "^7.0.1",
