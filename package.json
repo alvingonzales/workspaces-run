@@ -42,7 +42,7 @@
     "chunkd": "^2.0.1",
     "cross-spawn": "^7.0.1",
     "get-workspaces": "^0.5.2",
-    "meow": "^6.0.0",
+    "meow": "^13.2.0",
     "micromatch": "^4.0.2",
     "p-limit": "^2.2.1",
     "physical-cpu-count": "^2.0.0",
